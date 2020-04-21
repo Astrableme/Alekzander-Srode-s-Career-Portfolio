@@ -19,7 +19,7 @@ html, li{
 }
 
 html.home{
-	height: 750px;
+	height: 900px;
 	margin: auto;
 	width: 960px;
 	overflow-y: scroll;
@@ -65,7 +65,7 @@ html.home{
 	width: 100%;
 	background-color: #000000;
 	position: relative;
-	top: 550px; bottom:0px; right:0px; left:0px;
+	top: 700px; bottom:0px; right:0px; left:0px;
 }
 
 .headerLeft{
